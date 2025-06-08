@@ -13,7 +13,7 @@ body {
   flex-wrap: wrap;
   align-items: center;
   justify-content: center;
-  background: linear-gradient(135deg, #ffb347, #ffcc33);
+  background: linear-gradient(135deg, #e0f7ff, #b3e5ff);
   color: white;
   padding: 2rem;
 }
